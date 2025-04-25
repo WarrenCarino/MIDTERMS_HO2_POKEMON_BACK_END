@@ -1,0 +1,68 @@
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\appsettings.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.staticwebassets.endpoints.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.exe
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.deps.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.runtimeconfig.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.pdb
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.csproj.AssemblyReference.cache
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.AssemblyInfoInputs.cache
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.AssemblyInfo.cs
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\scopedcss\bundle\pokemonbackend-web.styles.css
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets\msbuild.pokemonbackend-web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets\msbuild.pokemonbackend-web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemonbackend-web.props
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemonbackend-web.props
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemonbackend-web.props
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\refint\pokemonbackend-web.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.pdb
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.genruntimeconfig.cache
+C:\Users\STUDENT\Documents\midterm-oliveros\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\ref\pokemonbackend-web.dll
+C:\Users\STUDENT\Documents\midterm-oliveros\Pokemonbackend-Web\Pokemonbackend-Web\obj\Debug\net8.0\Pokemonb.1F8CF956.Up2Date
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\appsettings.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\pokemonbackend-web.exe
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.deps.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\pokemonbackend-web\bin\Debug\net8.0\pokemonbackend-web.runtimeconfig.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\pokemonbackend-web.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\pokemonbackend-web.pdb
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.csproj.AssemblyReference.cache
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.AssemblyInfoInputs.cache
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.AssemblyInfo.cs
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.csproj.CoreCompileInputs.cache
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets\msbuild.pokemonbackend-web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets\msbuild.build.pokemonbackend-web.props
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.pokemonbackend-web.props
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.pokemonbackend-web.props
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\scopedcss\bundle\pokemonbackend-web.styles.css
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\refint\pokemonbackend-web.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\pokemonbackend-web.pdb
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\pokemonbackend-web.genruntimeconfig.cache
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\pokemonbackend-web\obj\Debug\net8.0\ref\pokemonbackend-web.dll
+C:\Users\warre\OneDrive - University of Perpetual Help System JONELTA\Pictures\MIDTERM_HO1_POKEMON_BACKEND_END-main\pokemonbackend-web\Pokemonbackend-Web\obj\Debug\net8.0\Pokemonb.1F8CF956.Up2Date
