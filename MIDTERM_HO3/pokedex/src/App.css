@@ -1,0 +1,61 @@
+.app {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+  background-color: #f0f8ff; /* Change this color as needed */
+  min-height: 100vh; /* Ensures the background color covers the full height of the viewport */
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.filter label {
+  margin-right: 10px;
+}
+
+.pokemon-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  justify-items: center;
+}
+
+.pokemon-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  position: relative;
+  transition: background-color 0.3s ease;
+}
+
+/* Hover effect that changes the background color */
+.pokemon-card:hover {
+  background-color: #e8f9e8; /* Example hover color; replace with dynamic color later */
+}
+
+.pokemon-card img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.pokemon-info {
+  margin-top: 10px;
+}
+
+.pokemon-info h2 {
+  font-size: 1.2rem;
+}
+
+.pokemon-info p {
+  font-size: 1rem;
+  color: #555;
+}
